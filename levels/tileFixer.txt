@@ -1,0 +1,12 @@
+"image":"..\/assets\/tilesheet.png",
+         "imageheight":576,
+         "imagewidth":704,
+         "margin":0,
+         "name":"tilesheet",
+         "properties":
+            {
+            },
+         "spacing":0,
+         "tilecount":99,
+         "tileheight":64,
+         "tilewidth":64
